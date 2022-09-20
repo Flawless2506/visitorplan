@@ -11,7 +11,7 @@ const Tasks = ({tasks}) => {
         </>
     
     
-        )
+        );
 
 };
 export default Tasks;
